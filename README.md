@@ -1,4 +1,7 @@
 # Rikugien-Garden_Tokyo
+CC-BY-4.0 - RuinDig
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
+
 東京都文京区、六義園、2020年11月
 
 ![Rikugien-Garden_Tokyo_001](https://user-images.githubusercontent.com/20723919/114578117-96547e00-9cb7-11eb-9c16-4798a774f879.JPG)
